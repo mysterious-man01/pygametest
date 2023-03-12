@@ -1,2 +1,2 @@
-# pygametest
+# Pygame Test
 A pygame test
